@@ -15,13 +15,13 @@ en la consola mostrara la regla de produccion que se genero y posteriormente com
 
 ## Instalar
 ```bash
-git clone https://github.com/cozakoo/FTDI_LSYSTEM_TpFinal.git
+git clone https://github.com/cozakoo/ER-EmbaldosadoSierpinski.git
 
 python -m venv <venv>
 
 source <venv>/Scripts/activate
   
-cd FTDI_LSYSTEM_TpFinal
+cd ER-EmbaldosadoSierpinski
 en la consola indicar el numero de iteraciones
 Ingrese el numero de iteraciones: <numero_interacciones>
 python 2LSystem.py
