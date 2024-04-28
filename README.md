@@ -7,6 +7,11 @@ Una vez ejecutado el "2LSystem.exe" se abrira la consola de mando y otra ventana
 en la consola indicaremos las veces que la tortuga itere
 en la consola mostrara la regla de produccion que se genero y posteriormente comenzara a dibujar el ensambrado.
  
+| ![Embaldosado de Sierpinski](iteraciones/1.png) | ![Embaldosado de Sierpinski](iteraciones/2.png) |
+|------------------------------------------------|------------------------------------------------|
+| ![Embaldosado de Sierpinski](iteraciones/3.png) | ![Embaldosado de Sierpinski](iteraciones/4.png) |
+
+
 
 ## Instalar
 ```bash
