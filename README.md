@@ -6,7 +6,9 @@ Creando el Embaldosado de Sierpinski con Expresiones Regulares
 Una vez ejecutado el "2LSystem.exe" se abrira la consola de mando y otra ventana donde se dibujara
 en la consola indicaremos las veces que la tortuga itere
 en la consola mostrara la regla de produccion que se genero y posteriormente comenzara a dibujar el ensambrado.
- 
+
+ https://github.com/cozakoo/Python_EmbaldosadoSierpinski/assets/107519498/54fc61a3-33fa-4107-8f9b-5b80c9a8ace3
+
 | ![Embaldosado de Sierpinski](iteraciones/1.png) | ![Embaldosado de Sierpinski](iteraciones/2.png) |
 |------------------------------------------------|------------------------------------------------|
 | ![Embaldosado de Sierpinski](iteraciones/3.png) | ![Embaldosado de Sierpinski](iteraciones/4.png) |
